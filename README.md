@@ -1,15 +1,14 @@
 # mensaflow
-=========
-
+------
 ## Get the mensa gm/iwz menu card by an alfred workflow
-## How to use
-type “mensa location date” to fetch the menu card
+### How to use
+type “mensa _location_ _date_” to fetch the menu card
 
-location (to be continued)
+_location_
 * gm
 * iwz
 
-date
+_date_
 * heute
 * morgen
 * woche
